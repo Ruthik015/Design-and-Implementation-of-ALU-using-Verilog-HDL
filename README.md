@@ -1,1 +1,0 @@
-# Design-and-Implementation-of-ALU-using-Verilog-HDL
